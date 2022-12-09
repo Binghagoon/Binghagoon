@@ -15,7 +15,7 @@
 
 ### Experience
    * CookApps (as internship)
-     - January 2019 ~ Fabuary 2019
+     - January 2019 ~ February 2019
      - Unity client developer
    * CAT&DOG
      - Vice President
