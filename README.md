@@ -37,6 +37,7 @@
    * C# with Unity
    * Express with Javascript/Typescript
    * JQuery
+   * React
    * __Javascript__ on Web
    * Typescript with Node.js
    * Mysql
