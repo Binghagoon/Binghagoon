@@ -1,5 +1,5 @@
 ### Status
-   * Sub Programmer (Vience)
+   * Sub Full stack Programmer (Vience)
    * __Look for work__
 
 ### Also known as (Nickname)
@@ -28,6 +28,10 @@
        + March 2021 ~ April 2022
      - Full-stack Developer
      - Developed KU-BUS
+   * Vience
+     - Backend resercher
+       + December 2022 ~ Now
+     - Developed Vience canvas and API
 
 ### Skill
    * C# with Unity
