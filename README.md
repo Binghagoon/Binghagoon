@@ -29,7 +29,7 @@
      - Developed KU-BUS
    * Vience
      - Backend resercher
-       + December 2022 ~ Now
+       + December 2022 ~ Febuary 2023
      - Developed Vience canvas and API
 
 ### Skill
