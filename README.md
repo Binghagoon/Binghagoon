@@ -73,5 +73,5 @@
     + intranet
 
 ### Contact me?
- - email: fmat5538 [at] google.com
+ - email: fmat5538 [at] gmail.com
 
