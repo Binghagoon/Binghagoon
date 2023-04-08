@@ -1,5 +1,5 @@
 ### Status
-   * __Look for work__
+   * Work at EduTOSEL
 
 ### Also known as (Nickname)
  * Bingha
@@ -31,6 +31,10 @@
      - Backend resercher
        + December 2022 ~ February 2023
      - Developed Vience canvas and API
+   * Internetonal TOSEL Committee
+     - Computer Department
+       + April 2023 ~ Now
+    
 
 ### Skill
    * C# with Unity
