@@ -1,5 +1,6 @@
 ### Status
-   * Work at EduTOSEL
+   * Work at International TOSEL Comitee
+   * as Computer Department
 
 ### Also known as (Nickname)
  * Bingha
