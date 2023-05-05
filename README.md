@@ -1,6 +1,6 @@
 ### Status
    * Work at International TOSEL Comitee
-   * as Computer Department
+   * as a resercher of administration & management
 
 ### Also known as (Nickname)
  * Bingha
@@ -33,7 +33,7 @@
        + December 2022 ~ February 2023
      - Developed Vience canvas and API
    * Internetonal TOSEL Committee
-     - Computer Department
+     - A resercher of administration & management
        + April 2023 ~ Now
     
 
@@ -76,7 +76,10 @@
     + Gitlab
     + info page
     + intranet
+ - TOSEL (April 2023 ~)
+   + TOSEL Lab
 
 ### Contact me?
- - email: fmat5538 [at] gmail.com
+ - Personal email: fmat5538 [at] gmail.com
+ - Official email: mskim [at] tosel.co.kr
 
