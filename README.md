@@ -35,8 +35,8 @@
    * Internetonal TOSEL Committee
      - A resercher of administration & management
        + April 2023 ~ Now
-    - Full-stack Developer
-    - Maintained TOSEL Lab
+     - Full-stack Developer
+     - Maintained TOSEL Lab
     
 
 ### Skill
