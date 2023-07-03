@@ -40,16 +40,19 @@
     
 
 ### Skill
-   * C# with Unity
-   * Express with Javascript/Typescript
-   * JQuery
-   * React
-   * __Javascript__ on Web
-   * Typescript with Node.js
-   * Mysql
-   * Python
-   * RESTful API design
-   
+  - C#
+     * with Unity3D
+  - JavaScript/TypeScript
+     * with React
+     * with Express
+  - SQL
+    * on MySQL or MariaDB
+    * on PostgreSQL
+  - Python
+  - Linux
+    * on Debian (Ubuntu)
+  - Docker
+  - RESTful API Design
 
 ### Teached Others
  - Python
