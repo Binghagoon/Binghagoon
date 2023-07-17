@@ -44,6 +44,7 @@
      * with Unity3D
   - JavaScript/TypeScript
      * with React
+     * with Next.js
      * with Express
   - SQL
     * on MySQL or MariaDB
