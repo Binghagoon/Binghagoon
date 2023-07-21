@@ -9,7 +9,7 @@
 ### Education
  * Andong Highschool 
    - March 2012 ~ February 2016
- * Korea University, Bacheler
+ * Korea University, Bachelor
    - March 2016 ~ Now
    - College of Informatics
    - Department of Computer Science and Engineering
