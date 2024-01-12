@@ -10,7 +10,7 @@
  * Andong Highschool 
    - March 2012 ~ February 2016
  * Korea University, Bachelor
-   - March 2016 ~ Now
+   - March 2016 ~ February 2024
    - College of Informatics
    - Department of Computer Science and Engineering
 
@@ -35,8 +35,8 @@
    * Internetonal TOSEL Committee
      - A resercher of administration & management
        + April 2023 ~ Now
-     - Full-stack Developer
-     - Maintained TOSEL Lab
+     - Full-stack & DevOps Developer
+     - Maintained TOSEL Lab & Olympiad
     
 
 ### Skill
@@ -84,6 +84,7 @@
     + intranet
  - TOSEL (April 2023 ~)
    + TOSEL Lab
+   + TOSEL Olympiad
 
 ### Contact me?
  - Personal email: fmat5538 [at] gmail.com
