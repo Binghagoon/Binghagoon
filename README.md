@@ -1,6 +1,5 @@
 ### Status
-   * Work at International TOSEL Comitee
-   * as a resercher of administration & management
+   * Looking for a job
 
 ### Also known as (Nickname)
  * Bingha
@@ -34,9 +33,9 @@
      - Developed Vience canvas and API
    * Internetonal TOSEL Committee
      - A resercher of administration & management
-       + April 2023 ~ Now
+       + April 2023 ~ April 2025
      - Full-stack & DevOps Developer
-     - Maintained TOSEL Lab & Olympiad
+     - Maintained TOSEL Lab & Olympiad & TOSEL Web
     
 
 ### Skill
