@@ -87,5 +87,3 @@
 
 ### Contact me?
  - Personal email: fmat5538 [at] gmail.com
- - Official email: mskim [at] tosel.co.kr
-
